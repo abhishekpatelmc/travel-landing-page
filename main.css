@@ -1,0 +1,68 @@
+body {
+    background-color: rgba(18, 0, 18, 0.9) !important;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    
+}
+
+#logo {
+    width: 90px;
+    margin-top: -20px;
+    height: 90px;
+}
+
+#logotext {
+    /* color: #00FFE6; */
+    color: white;
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+nav a {
+    margin-left: 70px;
+}
+
+
+.land {
+    /* border: solid 2px red; */
+    display: flex;    
+    margin-top: 2%;
+}
+
+
+.landtext {
+    /* border: 2px solid wheat; */
+    padding: 100px;
+    padding-top: 170px;
+    width: 50%;
+}
+
+.landtext h1 {
+    /* border: greenyellow 2px solid; */
+    color: white;
+}
+
+
+.landtext p {
+    /* border: burlywood 2px solid; */
+    color: white; 
+    padding-right: 10px;
+
+}
+
+.landimg {
+    /* border: 2px solid white; */
+    width: 50%;
+}
+
+.landimg img {
+    /* border: yellow 2px solid; */
+    width: 120%;
+    height: 100%;
+}
+
+
+.list {
+    color: white;
+    font-weight: 600;
+}
